@@ -5,9 +5,9 @@
 Pod::Spec.new do |s|
 
   # The libolm version
-  MAJOR = ?
-  MINOR = ?
-  PATCH = ?
+  MAJOR = 3
+  MINOR = 2
+  PATCH = 3
 
   s.name             = 'flutter_olm'
   s.version          = "#{MAJOR}.#{MINOR}.#{PATCH}"
