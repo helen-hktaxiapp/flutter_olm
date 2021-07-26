@@ -5,7 +5,7 @@ repository: https://gitlab.com/famedly/libraries/olm
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=1.10.0"
+  flutter: ">=1.22.2"
 
 dependencies:
   flutter:
